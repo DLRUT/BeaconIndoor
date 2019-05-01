@@ -1,1 +1,3 @@
 # BeaconIndoor
+
+Due to the poor development of indoor location tracking using WIFI signals, this project implements beacons to track real-time indoor location of an Android mobile device with trilateration and fingerprinting. A real-time formula converting beacon signal strengths to distances is generated in each room to account for noise and improve accuracy. All calculations are completed using Android Studio, Gimbal beacons, Gimbal server, and two external libraries. The location data will be useful to Phillips Collection Museum in making better decisions on arrangements such as generating popular visitor routes, developing guiding and recommendation apps, or altering artistic preferences, etc.
