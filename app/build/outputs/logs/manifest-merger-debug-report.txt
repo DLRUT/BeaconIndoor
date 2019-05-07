@@ -1,0 +1,1127 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:2:1-99:12
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\6819e7b1080dce005080aafc13014713\AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:2:1-14:12
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\5fa6fcf9cbecd8ec69336c227106af2e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\f001f69913c5296e07a9039fb3575a32\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\02ec78e31d865e78bd611998bd5014ab\AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\a0baeabaa67dc279afc81db007f6b533\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\5a20ac74ea7283a38b72018f72523c14\AndroidManifest.xml:2:1-11:12
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\542f8ce43c3992d738edc1082e5d6976\AndroidManifest.xml:2:1-6:12
+MERGED from [com.gimbal.android.v2:gimbal-slf4j-impl:2.72] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\gimbal-slf4j-impl-2.72.aar\218a01fc1e3b1cd26c2bdfc216e6437f\AndroidManifest.xml:2:1-11:12
+MERGED from [com.gimbal.android.v2:gimbal-sdk:2.72] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\gimbal-sdk-2.72.aar\0418a0cce9bfd6b2a7d5e2378018bc42\AndroidManifest.xml:2:1-11:12
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\a4acb470c7dcfbec9c0118f5ef0d00dd\AndroidManifest.xml:2:1-14:12
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\23e8349db02e708046d634c3e803ad12\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2bbad692c3438dc626b2abe175ddc91e\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.1.aar\1231a647e35054ac5825cd28ee42bd30\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-12.0.1.aar\74d16607885586773b6adf4de94622db\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\72aadbf6c08184fc5cf26fec838f63ff\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:17:1-31:12
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\b88f176cf6c92d759c39c36a55af4ee4\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\68d70dbf816a2308d19618da68e16d6f\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-config-12.0.1.aar\890e95902daaf0c3a775d9738cd32c2c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\1623d7e367f132561dab076f74684613\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-games-12.0.1.aar\a01986c4f29c2d6eb7c0f7e7f4118172\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-drive-12.0.1.aar\0fd7f5d1217002e06e99ccccd98d921c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fido-12.0.1.aar\a79643214c74ac7a19aceecb06d99ccf\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-12.0.1.aar\0735581832787acee8d3f332a4c07fee\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fitness-12.0.1.aar\34a5c9ee202d80ffa42765d45da39a6b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\effbb10fd193937f73c2d2ee9d2ab5d6\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-12.0.1.aar\c4280230fc9dc69cd1163639142fee8c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wallet-12.0.1.aar\99b448d517663367094d6bdc3afcf426\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\7cd592f4eb3c77fb08195867bda6e5ed\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\67cd3bf1c755e1b032e1420ae2f09d21\AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-12.0.1.aar\a6ef5052e98b6fed6bf2e7172fbbba1f\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\54519a4875c06af33f96c16bb15c123d\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\a89c942252f127d19fc178e5d10d6d76\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:17:1-32:12
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\38c720e150ae2514c7232f8012e44878\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-plus-12.0.1.aar\3b3ceeb9485eb6a73b011ac1b1fc108d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-12.0.1.aar\1191a3dee5817942072626cbac7628d3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\6142dc495d05603d54e84e2cc01bee85\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\1a261cba8726c3bf2887ce581685efcc\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wearable-12.0.1.aar\21638fb8dac7e1a0383ce9ffb785159e\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\81c5d59f6efd066fdbbd80e7ced0b5bd\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\0178b350bdd3cd6e133feab5c2981743\AndroidManifest.xml:17:1-27:12
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-12.0.1.aar\550985525b578b7efd3f2a72a5d11566\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-12.0.1.aar\25b63ff32f59960806eb13b22adbd072\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:17:1-37:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:17:1-47:12
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:17:1-54:12
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-12.0.1.aar\a13f6abbd85c69b627126a8975c5224a\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-12.0.1.aar\398c4638bd74aeb6cb99a55903b1b3c3\AndroidManifest.xml:2:1-8:12
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\668573b3ad281f35138e258fbebcb7e0\AndroidManifest.xml:2:1-15:12
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\8ce7d061b9695c64e69abb782a23a046\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\2f2cc8926d5c6346a6da085fb950511c\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\e7610b83be81f68c2406843336c4b1f5\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2609b7ce835631898ba4493c1b4a2dc9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\aa8bbb28293c8d68797eedff0b47c2cf\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f31e5c9cb54bdb5bcfd9baddbe2d478\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\57852790a7a75547be176c3c5fbd40f4\AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11e4f80f081652f3fc004ef75995482a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aef18f21277c447ab5deff123116de56\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8e1eeb651a69f2d24ae4b5a9a0d5f33b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\2920fbd1d19e0384a75d64d71af093c5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\5d1e024dd075b0915a581f6f22ea1d51\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\4e17640623e252bc574837a6e160b28a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\42d365c3ea1df9a950ff4ac3356cc8e9\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\fb6b7e6d6b575f7127c73e79a966cc7d\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c8180550ef8249284df29aca1833e648\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\93e5e68d94a01b8e580e482b5ad7591a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\fff4be1d6439c337b3e5e6ce109f7445\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\add05034974a92dff1ec6d8185e3f960\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\ecedf40dbf7c9ad73667bf6684cc47d1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\6a8a24f99e01ff1926e9488208c5d839\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\3447be46c0446eedc4b855c20686db2b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\e9443f0b681db8ffb5c31e18d8c85f5b\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\b8dcc7e5001b7fa6ab8a15f9051d78b6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\2e7143d68170a49fff29dbdae32a857a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\014a751150f78fd0ae3f92de96376a27\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\4d7166c44e6d5c901002e90a4e08cb60\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\4e6e6052581c0a6163ac0d99debef995\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\d3e9352cd27e9230e0355a83454f0d99\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\2f2dccba999aff040c10a0bc3d29bb59\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\296b0a068814e07e21061f4c1305f8aa\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\6d9a9ac1d3d0b07459f0d4626961d14a\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\7ca59bfee5d9ad87aa2be96890f34c48\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\34a7c8b0a73747be20b8fea62dd5449c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6c59f29558206288db2f4832b8c4e879\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\1a9a75b0a9bcec42ecc35533eea64dfd\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\73b28dea250edde0aa38ae268e14a008\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\b9f97b2ba3a45421664015b2aaa50585\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\c504885b896e4a9f6c5940467f3ffca3\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\78765d50c6e7781e48e2b899111607e1\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\79fdc8d6386f74b2a8be16a7c841c77f\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\7dde1afaba099590e1fb3a4eb3882ad0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\b0b7169ec0f83a3babc34b98dfc2b6b0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\951f482ad7b635b7914bda831c0a28cc\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\ce1c94ded7f16e9b8313a2869fc8bf30\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\4a8357e04c7fb9aa2b332b480a6fa325\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\cc48eb59c5f646963554833987704b68\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\e9f4b0b8e3df0ff0fa1347b840347856\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-places-license-12.0.1.aar\c08bd156ed1a346acbe365d0a9e66852\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\ee0b64a7f831da4d4357ef12acafc0e8\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\db6d2a80e31e5581a2384ff35b247957\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\b90d8f3ff6114ac2f4afcc68d4e6aeae\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\26eae029c7523ead29be1cbd91f94805\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\d873b692a818b02677d8ba5ccdf5e591\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\9f8b33b2002125596a4c525a76055c45\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\9494ad41961c9bcafc12aa50c0567af7\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\f2dfb68fa2a2c9081ba57c1005484343\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\72bba53af857c01cac3e7f812d593881\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\51e562bb23045c5e9c41f960a47f5db3\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7a2045e2f18ec991381c35f28176d62b\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dd61d1f732f6f2ff9e3f0793e9ff328a\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a767171c77e4514396ed1e0c42d4fda6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\f6608c3ef6b16a51d91fa56707786a9c\AndroidManifest.xml:17:1-24:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5eebcf01ebbd48056ec5e2e696430832\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:2:1-99:12
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:2:1-99:12
+	package
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:2:1-99:12
+		INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:2:1-99:12
+		INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:2:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:5:5-7:34
+	android:required
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:7:9-32
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:6:9-53
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:9:5-66
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\effbb10fd193937f73c2d2ee9d2ab5d6\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\effbb10fd193937f73c2d2ee9d2ab5d6\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\67cd3bf1c755e1b032e1420ae2f09d21\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\67cd3bf1c755e1b032e1420ae2f09d21\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\0178b350bdd3cd6e133feab5c2981743\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\0178b350bdd3cd6e133feab5c2981743\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:23:5-67
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:9:22-64
+uses-permission#android.permission.NETWORK
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:10:5-65
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:10:22-63
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:11:22-76
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:12:22-78
+uses-permission-sdk-23#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:13:5-86
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:13:29-83
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:14:5-76
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:14:22-73
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:15:5-70
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:15:22-68
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:16:5-68
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:27:5-68
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:27:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:25:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:24:5-68
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:16:22-65
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:17:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\5a20ac74ea7283a38b72018f72523c14\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\5a20ac74ea7283a38b72018f72523c14\AndroidManifest.xml:7:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:24:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:17:22-76
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:18:5-81
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:18:22-78
+uses-permission#android.permission.BLUETOOTH
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:19:5-68
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:19:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:20:5-74
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:20:22-71
+uses-permission#android.permission.USE_CREDENTIALS
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:21:5-73
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:21:22-71
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:22:5-82
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\effbb10fd193937f73c2d2ee9d2ab5d6\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\effbb10fd193937f73c2d2ee9d2ab5d6\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\67cd3bf1c755e1b032e1420ae2f09d21\AndroidManifest.xml:23:5-82
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\67cd3bf1c755e1b032e1420ae2f09d21\AndroidManifest.xml:23:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:26:5-82
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:22:22-79
+application
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:25:5-97:19
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\6819e7b1080dce005080aafc13014713\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\6819e7b1080dce005080aafc13014713\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:7:5-12:19
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\5fa6fcf9cbecd8ec69336c227106af2e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\5fa6fcf9cbecd8ec69336c227106af2e\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\f001f69913c5296e07a9039fb3575a32\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\f001f69913c5296e07a9039fb3575a32\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\02ec78e31d865e78bd611998bd5014ab\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\02ec78e31d865e78bd611998bd5014ab\AndroidManifest.xml:25:5-29:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\a0baeabaa67dc279afc81db007f6b533\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\a0baeabaa67dc279afc81db007f6b533\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\5a20ac74ea7283a38b72018f72523c14\AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\5a20ac74ea7283a38b72018f72523c14\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\542f8ce43c3992d738edc1082e5d6976\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\542f8ce43c3992d738edc1082e5d6976\AndroidManifest.xml:5:5-20
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\a4acb470c7dcfbec9c0118f5ef0d00dd\AndroidManifest.xml:11:5-12:19
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\a4acb470c7dcfbec9c0118f5ef0d00dd\AndroidManifest.xml:11:5-12:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\23e8349db02e708046d634c3e803ad12\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\23e8349db02e708046d634c3e803ad12\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2bbad692c3438dc626b2abe175ddc91e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2bbad692c3438dc626b2abe175ddc91e\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:29:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\72aadbf6c08184fc5cf26fec838f63ff\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\72aadbf6c08184fc5cf26fec838f63ff\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:29:5-20
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:24:5-35:19
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-config-12.0.1.aar\890e95902daaf0c3a775d9738cd32c2c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-config-12.0.1.aar\890e95902daaf0c3a775d9738cd32c2c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\1623d7e367f132561dab076f74684613\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\1623d7e367f132561dab076f74684613\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-games-12.0.1.aar\a01986c4f29c2d6eb7c0f7e7f4118172\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-games-12.0.1.aar\a01986c4f29c2d6eb7c0f7e7f4118172\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-drive-12.0.1.aar\0fd7f5d1217002e06e99ccccd98d921c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-drive-12.0.1.aar\0fd7f5d1217002e06e99ccccd98d921c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fido-12.0.1.aar\a79643214c74ac7a19aceecb06d99ccf\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fido-12.0.1.aar\a79643214c74ac7a19aceecb06d99ccf\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:22:5-30:19
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-12.0.1.aar\0735581832787acee8d3f332a4c07fee\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-12.0.1.aar\0735581832787acee8d3f332a4c07fee\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fitness-12.0.1.aar\34a5c9ee202d80ffa42765d45da39a6b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fitness-12.0.1.aar\34a5c9ee202d80ffa42765d45da39a6b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\effbb10fd193937f73c2d2ee9d2ab5d6\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\effbb10fd193937f73c2d2ee9d2ab5d6\AndroidManifest.xml:26:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-12.0.1.aar\c4280230fc9dc69cd1163639142fee8c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-12.0.1.aar\c4280230fc9dc69cd1163639142fee8c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\7cd592f4eb3c77fb08195867bda6e5ed\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\7cd592f4eb3c77fb08195867bda6e5ed\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\67cd3bf1c755e1b032e1420ae2f09d21\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\67cd3bf1c755e1b032e1420ae2f09d21\AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\54519a4875c06af33f96c16bb15c123d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\54519a4875c06af33f96c16bb15c123d\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\a89c942252f127d19fc178e5d10d6d76\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\a89c942252f127d19fc178e5d10d6d76\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:30:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\38c720e150ae2514c7232f8012e44878\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\38c720e150ae2514c7232f8012e44878\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-plus-12.0.1.aar\3b3ceeb9485eb6a73b011ac1b1fc108d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-plus-12.0.1.aar\3b3ceeb9485eb6a73b011ac1b1fc108d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-12.0.1.aar\1191a3dee5817942072626cbac7628d3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-12.0.1.aar\1191a3dee5817942072626cbac7628d3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\6142dc495d05603d54e84e2cc01bee85\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\6142dc495d05603d54e84e2cc01bee85\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\1a261cba8726c3bf2887ce581685efcc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\1a261cba8726c3bf2887ce581685efcc\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wearable-12.0.1.aar\21638fb8dac7e1a0383ce9ffb785159e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wearable-12.0.1.aar\21638fb8dac7e1a0383ce9ffb785159e\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\81c5d59f6efd066fdbbd80e7ced0b5bd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\81c5d59f6efd066fdbbd80e7ced0b5bd\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\0178b350bdd3cd6e133feab5c2981743\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\0178b350bdd3cd6e133feab5c2981743\AndroidManifest.xml:24:5-25:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:22:5-35:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:26:5-45:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:27:5-52:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:27:5-38:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:34:5-57:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\668573b3ad281f35138e258fbebcb7e0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\668573b3ad281f35138e258fbebcb7e0\AndroidManifest.xml:7:5-13:19
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\8ce7d061b9695c64e69abb782a23a046\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\8ce7d061b9695c64e69abb782a23a046\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\2f2cc8926d5c6346a6da085fb950511c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\2f2cc8926d5c6346a6da085fb950511c\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\e7610b83be81f68c2406843336c4b1f5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\e7610b83be81f68c2406843336c4b1f5\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\57852790a7a75547be176c3c5fbd40f4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\57852790a7a75547be176c3c5fbd40f4\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\2920fbd1d19e0384a75d64d71af093c5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\2920fbd1d19e0384a75d64d71af093c5\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\5d1e024dd075b0915a581f6f22ea1d51\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\5d1e024dd075b0915a581f6f22ea1d51\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\4e17640623e252bc574837a6e160b28a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\4e17640623e252bc574837a6e160b28a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\42d365c3ea1df9a950ff4ac3356cc8e9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\42d365c3ea1df9a950ff4ac3356cc8e9\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\fb6b7e6d6b575f7127c73e79a966cc7d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\fb6b7e6d6b575f7127c73e79a966cc7d\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c8180550ef8249284df29aca1833e648\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c8180550ef8249284df29aca1833e648\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\93e5e68d94a01b8e580e482b5ad7591a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\93e5e68d94a01b8e580e482b5ad7591a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\fff4be1d6439c337b3e5e6ce109f7445\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\fff4be1d6439c337b3e5e6ce109f7445\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\add05034974a92dff1ec6d8185e3f960\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\add05034974a92dff1ec6d8185e3f960\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\ecedf40dbf7c9ad73667bf6684cc47d1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\ecedf40dbf7c9ad73667bf6684cc47d1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\6a8a24f99e01ff1926e9488208c5d839\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\6a8a24f99e01ff1926e9488208c5d839\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\3447be46c0446eedc4b855c20686db2b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\3447be46c0446eedc4b855c20686db2b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\e9443f0b681db8ffb5c31e18d8c85f5b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\e9443f0b681db8ffb5c31e18d8c85f5b\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\b8dcc7e5001b7fa6ab8a15f9051d78b6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\b8dcc7e5001b7fa6ab8a15f9051d78b6\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\2e7143d68170a49fff29dbdae32a857a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\2e7143d68170a49fff29dbdae32a857a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\014a751150f78fd0ae3f92de96376a27\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\014a751150f78fd0ae3f92de96376a27\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\4d7166c44e6d5c901002e90a4e08cb60\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\4d7166c44e6d5c901002e90a4e08cb60\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\4e6e6052581c0a6163ac0d99debef995\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\4e6e6052581c0a6163ac0d99debef995\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\d3e9352cd27e9230e0355a83454f0d99\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\d3e9352cd27e9230e0355a83454f0d99\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\2f2dccba999aff040c10a0bc3d29bb59\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\2f2dccba999aff040c10a0bc3d29bb59\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\296b0a068814e07e21061f4c1305f8aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\296b0a068814e07e21061f4c1305f8aa\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\6d9a9ac1d3d0b07459f0d4626961d14a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\6d9a9ac1d3d0b07459f0d4626961d14a\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\7ca59bfee5d9ad87aa2be96890f34c48\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\7ca59bfee5d9ad87aa2be96890f34c48\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\34a7c8b0a73747be20b8fea62dd5449c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\34a7c8b0a73747be20b8fea62dd5449c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6c59f29558206288db2f4832b8c4e879\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6c59f29558206288db2f4832b8c4e879\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\1a9a75b0a9bcec42ecc35533eea64dfd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\1a9a75b0a9bcec42ecc35533eea64dfd\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\73b28dea250edde0aa38ae268e14a008\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\73b28dea250edde0aa38ae268e14a008\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\b9f97b2ba3a45421664015b2aaa50585\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\b9f97b2ba3a45421664015b2aaa50585\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\c504885b896e4a9f6c5940467f3ffca3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\c504885b896e4a9f6c5940467f3ffca3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\78765d50c6e7781e48e2b899111607e1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\78765d50c6e7781e48e2b899111607e1\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\79fdc8d6386f74b2a8be16a7c841c77f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\79fdc8d6386f74b2a8be16a7c841c77f\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\7dde1afaba099590e1fb3a4eb3882ad0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\7dde1afaba099590e1fb3a4eb3882ad0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\b0b7169ec0f83a3babc34b98dfc2b6b0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\b0b7169ec0f83a3babc34b98dfc2b6b0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\951f482ad7b635b7914bda831c0a28cc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\951f482ad7b635b7914bda831c0a28cc\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\ce1c94ded7f16e9b8313a2869fc8bf30\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\ce1c94ded7f16e9b8313a2869fc8bf30\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\4a8357e04c7fb9aa2b332b480a6fa325\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\4a8357e04c7fb9aa2b332b480a6fa325\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\cc48eb59c5f646963554833987704b68\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\cc48eb59c5f646963554833987704b68\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\e9f4b0b8e3df0ff0fa1347b840347856\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\e9f4b0b8e3df0ff0fa1347b840347856\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-places-license-12.0.1.aar\c08bd156ed1a346acbe365d0a9e66852\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-places-license-12.0.1.aar\c08bd156ed1a346acbe365d0a9e66852\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\ee0b64a7f831da4d4357ef12acafc0e8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\ee0b64a7f831da4d4357ef12acafc0e8\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\db6d2a80e31e5581a2384ff35b247957\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\db6d2a80e31e5581a2384ff35b247957\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\b90d8f3ff6114ac2f4afcc68d4e6aeae\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\b90d8f3ff6114ac2f4afcc68d4e6aeae\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\26eae029c7523ead29be1cbd91f94805\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\26eae029c7523ead29be1cbd91f94805\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\d873b692a818b02677d8ba5ccdf5e591\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\d873b692a818b02677d8ba5ccdf5e591\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\9f8b33b2002125596a4c525a76055c45\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\9f8b33b2002125596a4c525a76055c45\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\9494ad41961c9bcafc12aa50c0567af7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\9494ad41961c9bcafc12aa50c0567af7\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\f2dfb68fa2a2c9081ba57c1005484343\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\f2dfb68fa2a2c9081ba57c1005484343\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\72bba53af857c01cac3e7f812d593881\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\72bba53af857c01cac3e7f812d593881\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\51e562bb23045c5e9c41f960a47f5db3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\51e562bb23045c5e9c41f960a47f5db3\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\f6608c3ef6b16a51d91fa56707786a9c\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\f6608c3ef6b16a51d91fa56707786a9c\AndroidManifest.xml:22:5-20
+	android:supportsRtl
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:30:9-35
+	android:label
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:28:9-41
+	android:roundIcon
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:29:9-54
+	android:icon
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:27:9-43
+	android:allowBackup
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:26:9-35
+	android:theme
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:31:9-40
+meta-data#com.google.android.gms.vision
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:33:9-36:21
+	android:value
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:35:13-66
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:34:13-57
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:38:9-41:21
+	android:value
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:40:13-55
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:39:13-58
+meta-data#com.google.android.nearby.messages.API_KEY
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:43:9-45:71
+	android:value
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:45:13-68
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:44:13-70
+activity#com.example.artcloud.MainActivity
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:47:9-54:20
+	android:screenOrientation
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:49:13-49
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:48:13-41
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:50:9-53:25
+action#android.intent.action.MAIN
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:51:13-65
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:51:21-62
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:52:13-73
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:52:23-70
+activity#com.example.artcloud.BeaconInfo
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:56:9-60:68
+	android:screenOrientation
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:58:13-49
+	android:label
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:59:13-47
+	android:theme
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:60:13-66
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:57:13-39
+activity#com.example.artcloud.SignInPopActivity
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:62:9-64:46
+	android:screenOrientation
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:63:13-49
+	android:theme
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:64:13-44
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:62:19-52
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:66:9-69:15
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:23:9-27:75
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:23:9-27:75
+	android:screenOrientation
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:68:13-49
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:67:13-93
+service#com.example.artcloud.GimbalService
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:71:9-73:40
+	android:exported
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:73:13-37
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:72:13-42
+service#com.gimbal.internal.service.GimbalService
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:75:9-81:19
+	android:exported
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:77:13-37
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:76:13-69
+intent-filter#com.gimbal.hello_gimbal_android.service.GIMBAL_SERVICE
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:78:13-80:29
+action#com.gimbal.hello_gimbal_android.service.GIMBAL_SERVICE
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:79:17-97
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:79:25-94
+service#com.example.artcloud.GoogleService
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:83:9-85:40
+	android:exported
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:85:13-37
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:84:13-42
+receiver#com.gimbal.internal.service.GimbalServiceStartStopReceiver
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:87:9-96:20
+	android:enabled
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:89:13-35
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:88:13-86
+intent-filter#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:90:13-92:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:91:17-79
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:91:25-76
+intent-filter#android.intent.action.ACTION_SHUTDOWN
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:93:13-95:29
+action#android.intent.action.ACTION_SHUTDOWN
+ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:94:17-80
+	android:name
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml:94:25-77
+uses-sdk
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\6819e7b1080dce005080aafc13014713\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-12.0.1.aar\6819e7b1080dce005080aafc13014713\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\5fa6fcf9cbecd8ec69336c227106af2e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-12.0.1.aar\5fa6fcf9cbecd8ec69336c227106af2e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\f001f69913c5296e07a9039fb3575a32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\f001f69913c5296e07a9039fb3575a32\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\02ec78e31d865e78bd611998bd5014ab\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\02ec78e31d865e78bd611998bd5014ab\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\a0baeabaa67dc279afc81db007f6b533\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.1.aar\a0baeabaa67dc279afc81db007f6b533\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\5a20ac74ea7283a38b72018f72523c14\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-nearby:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-12.0.1.aar\5a20ac74ea7283a38b72018f72523c14\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\542f8ce43c3992d738edc1082e5d6976\AndroidManifest.xml:4:5-43
+MERGED from [com.google.firebase:firebase-core:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-core-12.0.1.aar\542f8ce43c3992d738edc1082e5d6976\AndroidManifest.xml:4:5-43
+MERGED from [com.gimbal.android.v2:gimbal-slf4j-impl:2.72] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\gimbal-slf4j-impl-2.72.aar\218a01fc1e3b1cd26c2bdfc216e6437f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.gimbal.android.v2:gimbal-slf4j-impl:2.72] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\gimbal-slf4j-impl-2.72.aar\218a01fc1e3b1cd26c2bdfc216e6437f\AndroidManifest.xml:7:5-9:41
+MERGED from [com.gimbal.android.v2:gimbal-sdk:2.72] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\gimbal-sdk-2.72.aar\0418a0cce9bfd6b2a7d5e2378018bc42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.gimbal.android.v2:gimbal-sdk:2.72] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\gimbal-sdk-2.72.aar\0418a0cce9bfd6b2a7d5e2378018bc42\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\a4acb470c7dcfbec9c0118f5ef0d00dd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.jjoe64:graphview:4.2.2] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\graphview-4.2.2.aar\a4acb470c7dcfbec9c0118f5ef0d00dd\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\23e8349db02e708046d634c3e803ad12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\23e8349db02e708046d634c3e803ad12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2bbad692c3438dc626b2abe175ddc91e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2bbad692c3438dc626b2abe175ddc91e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.1.aar\1231a647e35054ac5825cd28ee42bd30\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-12.0.1.aar\1231a647e35054ac5825cd28ee42bd30\AndroidManifest.xml:21:5-23:62
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-12.0.1.aar\74d16607885586773b6adf4de94622db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-12.0.1.aar\74d16607885586773b6adf4de94622db\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\72aadbf6c08184fc5cf26fec838f63ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-12.0.1.aar\72aadbf6c08184fc5cf26fec838f63ff\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-12.0.1.aar\e707eb92b3682cda0678f0d1430c2ed6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\b88f176cf6c92d759c39c36a55af4ee4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-12.0.1.aar\b88f176cf6c92d759c39c36a55af4ee4\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\68d70dbf816a2308d19618da68e16d6f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-12.0.1.aar\68d70dbf816a2308d19618da68e16d6f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-config-12.0.1.aar\890e95902daaf0c3a775d9738cd32c2c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-config-12.0.1.aar\890e95902daaf0c3a775d9738cd32c2c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\1623d7e367f132561dab076f74684613\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-awareness-12.0.1.aar\1623d7e367f132561dab076f74684613\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-games-12.0.1.aar\a01986c4f29c2d6eb7c0f7e7f4118172\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-games-12.0.1.aar\a01986c4f29c2d6eb7c0f7e7f4118172\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-drive-12.0.1.aar\0fd7f5d1217002e06e99ccccd98d921c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-drive-12.0.1.aar\0fd7f5d1217002e06e99ccccd98d921c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fido-12.0.1.aar\a79643214c74ac7a19aceecb06d99ccf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fido:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fido-12.0.1.aar\a79643214c74ac7a19aceecb06d99ccf\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-12.0.1.aar\0735581832787acee8d3f332a4c07fee\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-12.0.1.aar\0735581832787acee8d3f332a4c07fee\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fitness-12.0.1.aar\34a5c9ee202d80ffa42765d45da39a6b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fitness-12.0.1.aar\34a5c9ee202d80ffa42765d45da39a6b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\effbb10fd193937f73c2d2ee9d2ab5d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-12.0.1.aar\effbb10fd193937f73c2d2ee9d2ab5d6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-12.0.1.aar\c4280230fc9dc69cd1163639142fee8c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-12.0.1.aar\c4280230fc9dc69cd1163639142fee8c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wallet-12.0.1.aar\99b448d517663367094d6bdc3afcf426\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wallet-12.0.1.aar\99b448d517663367094d6bdc3afcf426\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\7cd592f4eb3c77fb08195867bda6e5ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-identity-12.0.1.aar\7cd592f4eb3c77fb08195867bda6e5ed\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\67cd3bf1c755e1b032e1420ae2f09d21\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-12.0.1.aar\67cd3bf1c755e1b032e1420ae2f09d21\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-12.0.1.aar\a6ef5052e98b6fed6bf2e7172fbbba1f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-instantapps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-12.0.1.aar\a6ef5052e98b6fed6bf2e7172fbbba1f\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\54519a4875c06af33f96c16bb15c123d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-location-12.0.1.aar\54519a4875c06af33f96c16bb15c123d\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\a89c942252f127d19fc178e5d10d6d76\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-places-12.0.1.aar\a89c942252f127d19fc178e5d10d6d76\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\38c720e150ae2514c7232f8012e44878\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-panorama-12.0.1.aar\38c720e150ae2514c7232f8012e44878\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-plus-12.0.1.aar\3b3ceeb9485eb6a73b011ac1b1fc108d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-plus-12.0.1.aar\3b3ceeb9485eb6a73b011ac1b1fc108d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-12.0.1.aar\1191a3dee5817942072626cbac7628d3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-12.0.1.aar\1191a3dee5817942072626cbac7628d3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\6142dc495d05603d54e84e2cc01bee85\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-12.0.1.aar\6142dc495d05603d54e84e2cc01bee85\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\1a261cba8726c3bf2887ce581685efcc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-vision-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-12.0.1.aar\1a261cba8726c3bf2887ce581685efcc\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wearable-12.0.1.aar\21638fb8dac7e1a0383ce9ffb785159e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wearable-12.0.1.aar\21638fb8dac7e1a0383ce9ffb785159e\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\81c5d59f6efd066fdbbd80e7ced0b5bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\81c5d59f6efd066fdbbd80e7ced0b5bd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\0178b350bdd3cd6e133feab5c2981743\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-12.0.1.aar\0178b350bdd3cd6e133feab5c2981743\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-12.0.1.aar\550985525b578b7efd3f2a72a5d11566\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-12.0.1.aar\550985525b578b7efd3f2a72a5d11566\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-12.0.1.aar\25b63ff32f59960806eb13b22adbd072\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-database-connection:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-12.0.1.aar\25b63ff32f59960806eb13b22adbd072\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-12.0.1.aar\a13f6abbd85c69b627126a8975c5224a\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-12.0.1.aar\a13f6abbd85c69b627126a8975c5224a\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-12.0.1.aar\398c4638bd74aeb6cb99a55903b1b3c3\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-storage-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-12.0.1.aar\398c4638bd74aeb6cb99a55903b1b3c3\AndroidManifest.xml:6:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\668573b3ad281f35138e258fbebcb7e0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\668573b3ad281f35138e258fbebcb7e0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\8ce7d061b9695c64e69abb782a23a046\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-gass:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gass-12.0.1.aar\8ce7d061b9695c64e69abb782a23a046\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\2f2cc8926d5c6346a6da085fb950511c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tasks-12.0.1.aar\2f2cc8926d5c6346a6da085fb950511c\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\e7610b83be81f68c2406843336c4b1f5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\e7610b83be81f68c2406843336c4b1f5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2609b7ce835631898ba4493c1b4a2dc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\2609b7ce835631898ba4493c1b4a2dc9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\aa8bbb28293c8d68797eedff0b47c2cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\aa8bbb28293c8d68797eedff0b47c2cf\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f31e5c9cb54bdb5bcfd9baddbe2d478\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\1f31e5c9cb54bdb5bcfd9baddbe2d478\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\57852790a7a75547be176c3c5fbd40f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\57852790a7a75547be176c3c5fbd40f4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11e4f80f081652f3fc004ef75995482a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\11e4f80f081652f3fc004ef75995482a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aef18f21277c447ab5deff123116de56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\aef18f21277c447ab5deff123116de56\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8e1eeb651a69f2d24ae4b5a9a0d5f33b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\8e1eeb651a69f2d24ae4b5a9a0d5f33b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\2920fbd1d19e0384a75d64d71af093c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-license-12.0.1.aar\2920fbd1d19e0384a75d64d71af093c5\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\5d1e024dd075b0915a581f6f22ea1d51\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-lite-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-license-12.0.1.aar\5d1e024dd075b0915a581f6f22ea1d51\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\4e17640623e252bc574837a6e160b28a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-license-12.0.1.aar\4e17640623e252bc574837a6e160b28a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\42d365c3ea1df9a950ff4ac3356cc8e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-analytics-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-impl-license-12.0.1.aar\42d365c3ea1df9a950ff4ac3356cc8e9\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\fb6b7e6d6b575f7127c73e79a966cc7d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-appinvite-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-license-12.0.1.aar\fb6b7e6d6b575f7127c73e79a966cc7d\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c8180550ef8249284df29aca1833e648\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-api-phone-license-12.0.1.aar\c8180550ef8249284df29aca1833e648\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\93e5e68d94a01b8e580e482b5ad7591a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-base-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-base-license-12.0.1.aar\93e5e68d94a01b8e580e482b5ad7591a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\fff4be1d6439c337b3e5e6ce109f7445\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-license-12.0.1.aar\fff4be1d6439c337b3e5e6ce109f7445\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\add05034974a92dff1ec6d8185e3f960\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-framework-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-license-12.0.1.aar\add05034974a92dff1ec6d8185e3f960\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\ecedf40dbf7c9ad73667bf6684cc47d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-cast-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-license-12.0.1.aar\ecedf40dbf7c9ad73667bf6684cc47d1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\6a8a24f99e01ff1926e9488208c5d839\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-license-12.0.1.aar\6a8a24f99e01ff1926e9488208c5d839\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\3447be46c0446eedc4b855c20686db2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-config-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-config-license-12.0.1.aar\3447be46c0446eedc4b855c20686db2b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\e9443f0b681db8ffb5c31e18d8c85f5b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-awareness-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-awareness-license-12.0.1.aar\e9443f0b681db8ffb5c31e18d8c85f5b\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\b8dcc7e5001b7fa6ab8a15f9051d78b6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-crash-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-crash-license-12.0.1.aar\b8dcc7e5001b7fa6ab8a15f9051d78b6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\2e7143d68170a49fff29dbdae32a857a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-drive-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-drive-license-12.0.1.aar\2e7143d68170a49fff29dbdae32a857a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\014a751150f78fd0ae3f92de96376a27\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fido-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fido-license-12.0.1.aar\014a751150f78fd0ae3f92de96376a27\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\4d7166c44e6d5c901002e90a4e08cb60\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-auth-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-license-12.0.1.aar\4d7166c44e6d5c901002e90a4e08cb60\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\4e6e6052581c0a6163ac0d99debef995\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-connection-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-connection-license-12.0.1.aar\4e6e6052581c0a6163ac0d99debef995\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\d3e9352cd27e9230e0355a83454f0d99\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-database-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-database-license-12.0.1.aar\d3e9352cd27e9230e0355a83454f0d99\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\2f2dccba999aff040c10a0bc3d29bb59\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-dynamic-links-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-dynamic-links-license-12.0.1.aar\2f2dccba999aff040c10a0bc3d29bb59\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\296b0a068814e07e21061f4c1305f8aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-license-12.0.1.aar\296b0a068814e07e21061f4c1305f8aa\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\6d9a9ac1d3d0b07459f0d4626961d14a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-messaging-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-license-12.0.1.aar\6d9a9ac1d3d0b07459f0d4626961d14a\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\7ca59bfee5d9ad87aa2be96890f34c48\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-license-12.0.1.aar\7ca59bfee5d9ad87aa2be96890f34c48\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\34a7c8b0a73747be20b8fea62dd5449c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-storage-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-storage-common-license-12.0.1.aar\34a7c8b0a73747be20b8fea62dd5449c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6c59f29558206288db2f4832b8c4e879\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-license-12.0.1.aar\6c59f29558206288db2f4832b8c4e879\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\1a9a75b0a9bcec42ecc35533eea64dfd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-fitness-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-fitness-license-12.0.1.aar\1a9a75b0a9bcec42ecc35533eea64dfd\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\73b28dea250edde0aa38ae268e14a008\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-games-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-games-license-12.0.1.aar\73b28dea250edde0aa38ae268e14a008\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\b9f97b2ba3a45421664015b2aaa50585\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gass-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gass-license-12.0.1.aar\b9f97b2ba3a45421664015b2aaa50585\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\c504885b896e4a9f6c5940467f3ffca3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-gcm-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-gcm-license-12.0.1.aar\c504885b896e4a9f6c5940467f3ffca3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\78765d50c6e7781e48e2b899111607e1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-appindexing-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-appindexing-license-12.0.1.aar\78765d50c6e7781e48e2b899111607e1\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\79fdc8d6386f74b2a8be16a7c841c77f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-identity-license-12.0.1.aar\79fdc8d6386f74b2a8be16a7c841c77f\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\7dde1afaba099590e1fb3a4eb3882ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-iid-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-iid-license-12.0.1.aar\7dde1afaba099590e1fb3a4eb3882ad0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\b0b7169ec0f83a3babc34b98dfc2b6b0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-instantapps-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-instantapps-license-12.0.1.aar\b0b7169ec0f83a3babc34b98dfc2b6b0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\951f482ad7b635b7914bda831c0a28cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-location-license-12.0.1.aar\951f482ad7b635b7914bda831c0a28cc\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\ce1c94ded7f16e9b8313a2869fc8bf30\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-license-12.0.1.aar\ce1c94ded7f16e9b8313a2869fc8bf30\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\4a8357e04c7fb9aa2b332b480a6fa325\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-license-12.0.1.aar\4a8357e04c7fb9aa2b332b480a6fa325\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\cc48eb59c5f646963554833987704b68\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-analytics-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-license-12.0.1.aar\cc48eb59c5f646963554833987704b68\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\e9f4b0b8e3df0ff0fa1347b840347856\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-panorama-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-panorama-license-12.0.1.aar\e9f4b0b8e3df0ff0fa1347b840347856\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-places-license-12.0.1.aar\c08bd156ed1a346acbe365d0a9e66852\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-places-license-12.0.1.aar\c08bd156ed1a346acbe365d0a9e66852\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\ee0b64a7f831da4d4357ef12acafc0e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-plus-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-plus-license-12.0.1.aar\ee0b64a7f831da4d4357ef12acafc0e8\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\db6d2a80e31e5581a2384ff35b247957\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-safetynet-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-safetynet-license-12.0.1.aar\db6d2a80e31e5581a2384ff35b247957\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\b90d8f3ff6114ac2f4afcc68d4e6aeae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-api-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-license-12.0.1.aar\b90d8f3ff6114ac2f4afcc68d4e6aeae\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\26eae029c7523ead29be1cbd91f94805\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-license-12.0.1.aar\26eae029c7523ead29be1cbd91f94805\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\d873b692a818b02677d8ba5ccdf5e591\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tagmanager-v4-impl-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-v4-impl-license-12.0.1.aar\d873b692a818b02677d8ba5ccdf5e591\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\9f8b33b2002125596a4c525a76055c45\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tasks-license-12.0.1.aar\9f8b33b2002125596a4c525a76055c45\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\9494ad41961c9bcafc12aa50c0567af7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-common-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-common-license-12.0.1.aar\9494ad41961c9bcafc12aa50c0567af7\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\f2dfb68fa2a2c9081ba57c1005484343\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-vision-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-vision-license-12.0.1.aar\f2dfb68fa2a2c9081ba57c1005484343\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\72bba53af857c01cac3e7f812d593881\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wallet-license-12.0.1.aar\72bba53af857c01cac3e7f812d593881\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\51e562bb23045c5e9c41f960a47f5db3\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wearable-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-wearable-license-12.0.1.aar\51e562bb23045c5e9c41f960a47f5db3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7a2045e2f18ec991381c35f28176d62b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\7a2045e2f18ec991381c35f28176d62b\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dd61d1f732f6f2ff9e3f0793e9ff328a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\dd61d1f732f6f2ff9e3f0793e9ff328a\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a767171c77e4514396ed1e0c42d4fda6\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\a767171c77e4514396ed1e0c42d4fda6\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\f6608c3ef6b16a51d91fa56707786a9c\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-nearby-license:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-nearby-license-12.0.1.aar\f6608c3ef6b16a51d91fa56707786a9c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5eebcf01ebbd48056ec5e2e696430832\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\5eebcf01ebbd48056ec5e2e696430832\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\02ec78e31d865e78bd611998bd5014ab\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Lucifer\Downloads\hello-gimbal-android-master\IndoorBeacon\app\src\main\AndroidManifest.xml
+receiver#com.google.android.gms.cast.framework.media.MediaIntentReceiver
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:8:9-100
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:8:19-97
+service#com.google.android.gms.cast.framework.media.MediaNotificationService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:10:9-104
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:10:18-101
+service#com.google.android.gms.cast.framework.ReconnectionService
+ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:11:9-93
+	android:name
+		ADDED from [com.google.android.gms:play-services-cast-framework:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-cast-framework-12.0.1.aar\c82e4035c2c4833c7da26d450d21e5ed\AndroidManifest.xml:11:18-90
+meta-data#android.support.VERSION
+ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\f001f69913c5296e07a9039fb3575a32\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\02ec78e31d865e78bd611998bd5014ab\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:appcompat-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\appcompat-v7-26.1.0.aar\02ec78e31d865e78bd611998bd5014ab\AndroidManifest.xml:26:9-28:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\23e8349db02e708046d634c3e803ad12\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:animated-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-26.1.0.aar\23e8349db02e708046d634c3e803ad12\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2bbad692c3438dc626b2abe175ddc91e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:support-vector-drawable:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-26.1.0.aar\2bbad692c3438dc626b2abe175ddc91e\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\57852790a7a75547be176c3c5fbd40f4\AndroidManifest.xml:23:9-25:38
+MERGED from [com.android.support:palette-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\palette-v7-26.1.0.aar\57852790a7a75547be176c3c5fbd40f4\AndroidManifest.xml:23:9-25:38
+	android:value
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\f001f69913c5296e07a9039fb3575a32\AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [com.android.support:mediarouter-v7:26.1.0] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\mediarouter-v7-26.1.0.aar\f001f69913c5296e07a9039fb3575a32\AndroidManifest.xml:24:13-51
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-auth-12.0.1.aar\298213d6987660a3f48288eef76d3726\AndroidManifest.xml:34:13-89
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [com.google.android.gms:play-services-ads-lite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-12.0.1.aar\681248a1ae9e7f96bd700ed512e01ad8\AndroidManifest.xml:30:13-65
+receiver#com.google.android.gms.analytics.AnalyticsReceiver
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:30:9-34:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:32:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:33:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:31:13-78
+service#com.google.android.gms.analytics.AnalyticsService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:36:9-39:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:38:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:39:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:37:13-77
+service#com.google.android.gms.analytics.AnalyticsJobService
+ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:40:9-44:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:42:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:43:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:44:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-analytics-12.0.1.aar\882a5cc7e32f0ad96e08b4b0904c2a5a\AndroidManifest.xml:41:13-80
+activity#com.google.android.gms.appinvite.PreviewActivity
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:25:9-34:20
+	android:exported
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:27:13-36
+	android:theme
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:28:13-59
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:26:13-76
+intent-filter#android.intent.category.DEFAULT+com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:29:13-33:29
+action#com.google.android.gms.appinvite.ACTION_PREVIEW
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:30:17-90
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:30:25-87
+category#android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:32:17-76
+	android:name
+		ADDED from [com.google.android.gms:play-services-appinvite:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-appinvite-12.0.1.aar\0debfb40d32c000b341039cc7523d0fc\AndroidManifest.xml:32:27-73
+activity#com.google.firebase.auth.internal.FederatedSignInActivity
+ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:23:9-29:75
+	android:excludeFromRecents
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:25:13-46
+	android:launchMode
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:27:13-48
+	android:exported
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:26:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:28:13-102
+	android:theme
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:29:13-72
+	android:name
+		ADDED from [com.google.firebase:firebase-auth:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-auth-12.0.1.aar\5ddd59d6dfbd473cf994d4c041561b80\AndroidManifest.xml:24:13-85
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-maps-12.0.1.aar\10317327fbee48286ccfa0881e212460\AndroidManifest.xml:28:9-32
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\81c5d59f6efd066fdbbd80e7ced0b5bd\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\81c5d59f6efd066fdbbd80e7ced0b5bd\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\81c5d59f6efd066fdbbd80e7ced0b5bd\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-base-12.0.1.aar\81c5d59f6efd066fdbbd80e7ced0b5bd\AndroidManifest.xml:24:13-79
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:28:9-34:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:30:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:29:13-82
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:31:13-33:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:31:28-51
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-messaging-12.0.1.aar\cbaf7b316c8961612bb4baf26a75b550\AndroidManifest.xml:32:25-75
+service#com.google.android.gms.tagmanager.TagManagerService
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:27:9-30:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:29:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:28:13-79
+activity#com.google.android.gms.tagmanager.TagManagerPreviewActivity
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:32:9-44:20
+	android:noHistory
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:35:13-37
+	android:exported
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:34:13-36
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:33:13-87
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:36:13-43:29
+data
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:37:17-72
+	android:scheme
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:37:23-69
+action#android.intent.action.VIEW
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:39:17-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:39:25-66
+category#android.intent.category.BROWSABLE
+ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:42:17-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-tagmanager-api:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-tagmanager-api-12.0.1.aar\99b37a4100ade700506f81eaf27656fe\AndroidManifest.xml:42:27-75
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:28:9-32:20
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:28:9-32:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:30:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:31:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:29:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:33:9-41:20
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:35:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:36:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:37:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:34:13-100
+intent-filter#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:38:13-40:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:39:17-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:39:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:43:9-46:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:34:9-37:40
+MERGED from [com.google.firebase:firebase-analytics-impl:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-impl-12.0.1.aar\2c79ea33de436a0464a6e17610b4d019\AndroidManifest.xml:34:9-37:40
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:45:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:44:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:47:9-51:72
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:49:13-35
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:50:13-37
+	android:permission
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:51:13-69
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-analytics-12.0.1.aar\5a66b8e8b1dfe1a23c08690f1ab2eb2d\AndroidManifest.xml:48:13-87
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:29:9-63
+permission#com.example.artcloud.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:28:5-30:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:30:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:29:9-63
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:32:22-76
+uses-permission#com.example.artcloud.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:32:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:32:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:35:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:38:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:36:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:39:13-43:29
+intent-filter#com.example.artcloud+com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:39:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:40:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:40:25-78
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:42:27-58
+category#com.example.artcloud
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:42:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:42:27-58
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:51:13-77
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-iid-12.0.1.aar\1962b657cb77ba6a64fda24cf768d6d8\AndroidManifest.xml:54:25-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\668573b3ad281f35138e258fbebcb7e0\AndroidManifest.xml:8:9-12:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\668573b3ad281f35138e258fbebcb7e0\AndroidManifest.xml:10:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\668573b3ad281f35138e258fbebcb7e0\AndroidManifest.xml:11:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\668573b3ad281f35138e258fbebcb7e0\AndroidManifest.xml:12:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\firebase-common-12.0.1.aar\668573b3ad281f35138e258fbebcb7e0\AndroidManifest.xml:9:13-77
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\e7610b83be81f68c2406843336c4b1f5\AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\e7610b83be81f68c2406843336c4b1f5\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:12.0.1] C:\Users\Lucifer\.gradle\caches\transforms-1\files-1.1\play-services-basement-12.0.1.aar\e7610b83be81f68c2406843336c4b1f5\AndroidManifest.xml:24:13-58

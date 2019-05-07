@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">424009221106-606ujdkoe85e2hkbs61ri5oufs0iaddv.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://stellar-verve-206414.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">424009221106</string>
+    <string name="google_api_key" translatable="false">AIzaSyC6qQ34t3SJtyZi8kYBYvEtSu2DW-lBvps</string>
+    <string name="google_app_id" translatable="false">1:424009221106:android:4287789010f91c78</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyC6qQ34t3SJtyZi8kYBYvEtSu2DW-lBvps</string>
+    <string name="google_storage_bucket" translatable="false">stellar-verve-206414.appspot.com</string>
+    <string name="project_id" translatable="false">stellar-verve-206414</string>
+</resources>
